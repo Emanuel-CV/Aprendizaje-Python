@@ -57,9 +57,6 @@ def ejercicio5() -> None:
 
     print(f"\nEl área del círculo es {area}")
 
-
-
-
 if __name__ == "__main__":
     # ejercicio1()
     # ejercicio2()
